@@ -3,4 +3,4 @@ An offline-friendly AI Medical Study Assistant built with Python, featuring MCQs
 
 
 
-    app.mainloop()
+   
